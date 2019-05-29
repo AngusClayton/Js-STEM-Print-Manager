@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+html {
+  min-height: 100%;
+  background-image: linear-gradient(#ed9a35,#07af4a);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #159128;
+   color: white;
+   text-align: center;
+	 font-size: 60%;
+}
+body {
+  height: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
